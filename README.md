@@ -1,8 +1,4 @@
-- 👋 Hi, I’m savithu675
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning python and java
-- 😄 Pronouns:he/him
-- ⚡ Fun fact:i am cool :)
+
   
 
 <!---
